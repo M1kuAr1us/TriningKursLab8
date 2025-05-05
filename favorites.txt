@@ -2,3 +2,7 @@ FOODS:
 - pizza
 - doner
 - burger
+MOVIES:
+- Dune
+- Avatar
+- Terminator
